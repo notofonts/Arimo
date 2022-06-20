@@ -1,0 +1,9 @@
+buildVariable: true
+familyName: Noto Arimo
+googleFonts: true
+includeSubsets:
+- from: Noto Sans
+  name: GF_Latin_Core
+sources:
+- Arimo-Italic.designspace
+- Arimo.designspace
