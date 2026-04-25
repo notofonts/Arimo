@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniAB53" format="2">
-  <advance width="1118"/>
-  <unicode hex="AB53"/>
-  <outline>
-    <component base="chi"/>
-  </outline>
+	<unicode hex="AB53"/>
+	<advance width="1118"/>
+	<outline>
+		<component base="chi"/>
+	</outline>
 </glyph>

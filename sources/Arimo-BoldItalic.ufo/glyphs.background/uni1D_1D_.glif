@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D1D" format="2">
-  <advance width="1251"/>
-  <unicode hex="1D1D"/>
-  <outline>
-  </outline>
+	<unicode hex="1D1D"/>
+	<advance width="1251"/>
 </glyph>

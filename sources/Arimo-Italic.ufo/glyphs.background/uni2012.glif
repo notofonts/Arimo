@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2012" format="2">
-  <advance width="1139"/>
-  <unicode hex="2012"/>
-  <outline>
-    <component base="endash"/>
-  </outline>
+	<unicode hex="2012"/>
+	<advance width="1139"/>
+	<outline>
+		<component base="endash"/>
+	</outline>
 </glyph>

@@ -1,17 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2009" format="2">
-  <advance width="410"/>
-  <unicode hex="2009"/>
-  <unicode hex="202F"/>
-  <note>
+	<unicode hex="2009"/>
+	<unicode hex="202F"/>
+	<advance width="410"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.8806,0.1818,1</string>
+		</dict>
+	</lib>
+	<note>
 uni2009
 </note>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.8806,0.1818,1</string>
-    </dict>
-  </lib>
 </glyph>
