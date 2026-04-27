@@ -72,8 +72,6 @@
 		<string>Monotype Imaging Inc.</string>
 		<key>openTypeNameManufacturerURL</key>
 		<string>http://www.google.com/get/noto/</string>
-		<key>openTypeNameVersion</key>
-		<string>Version 1.33</string>
 		<key>openTypeOS2Panose</key>
 		<array>
 			<integer>2</integer>
